@@ -1,3 +1,3 @@
 let mydiv = document.createElement('div')
-mydiv.innerText = "hello div"
-document.body.appendChild(mydiv)
+mydiv.innerText = "hello div on JavaScript"
+document.body.appendChild(mydiv) 
